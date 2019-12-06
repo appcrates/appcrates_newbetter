@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import Dashboardheader from './headercomponent/dashboardHeader';
 import PerformancePage from './PerformanceSection/performancePage';
-import PerformanceCategories from './Performance_Categories/performancecategories';
+import PerformanceCategories from './performance_Categories/Performancecategories';
 import DashboardChart from './chart/dashboardChart';
 
 class Dashboard extends Component{
